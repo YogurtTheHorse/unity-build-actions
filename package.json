@@ -1,0 +1,11 @@
+{
+  "name": "se.yogurtthehor.unity.build-actions",
+  "version": "0.0.1",
+  "description": "Build actions for Unity projects using SuperUnityBuild.",
+  "displayName": "Yogurt Build Actions",
+  "author": {
+    "name": "Yogurt The Horse",
+    "email": "yegor@yogurtthwhor.se",
+    "url": "https://yogurtthehor.se"
+  }
+}
